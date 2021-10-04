@@ -1,0 +1,18 @@
+<testsuites name="jest tests" tests="7" failures="0" time="2.672">
+  <testsuite name="FilterBar.vue" errors="0" failures="0" skipped="0" timestamp="2021-10-03T17:31:41" time="0.628" tests="7">
+    <testcase classname="FilterBar.vue should update url when sort by recent to old selected" name="FilterBar.vue should update url when sort by recent to old selected" time="0.023">
+    </testcase>
+    <testcase classname="FilterBar.vue should update url when sort by  old to recent selected" name="FilterBar.vue should update url when sort by  old to recent selected" time="0.004">
+    </testcase>
+    <testcase classname="FilterBar.vue should update url when sort by  low to high rating is selected" name="FilterBar.vue should update url when sort by  low to high rating is selected" time="0.003">
+    </testcase>
+    <testcase classname="FilterBar.vue should update url when sort by  high to low rating is selected" name="FilterBar.vue should update url when sort by  high to low rating is selected" time="0.003">
+    </testcase>
+    <testcase classname="FilterBar.vue should update url when category is selected" name="FilterBar.vue should update url when category is selected" time="0.004">
+    </testcase>
+    <testcase classname="FilterBar.vue should update url when both category and sort by  low to high rating are selected" name="FilterBar.vue should update url when both category and sort by  low to high rating are selected" time="0.003">
+    </testcase>
+    <testcase classname="FilterBar.vue should update url when both sort by  low to high time  and category are selected" name="FilterBar.vue should update url when both sort by  low to high time  and category are selected" time="0.004">
+    </testcase>
+  </testsuite>
+</testsuites>
